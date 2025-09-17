@@ -1,0 +1,38 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  font-weight: 400, 700;
+  width: 1440px;
+  font-family: "Outfit", sans-serif;
+}
+
+p{
+  font-size: 15px;
+  color: hsl(216, 15%, 48%);
+}
+
+div.back{
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  width: 400px;
+  height: 550px;
+  margin-left: 40%;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.front1{
+
+  width: 350px;
+  height: 350px;
+  border-radius: 20px;
+  margin-left: 23px;
+}
+
+.front2{
+  padding-top: 0%;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  color: hsl(218, 44%, 22%);
+}
